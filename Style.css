@@ -2009,3 +2009,16 @@ footer {
         gap: 20px
     }
 }
+
+.backend-placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f7f7f7;
+  border-radius: 12px;
+  min-height: 180px;
+}
+
+.backend-label {
+  text-align: center;
+}
